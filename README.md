@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzahin&label=Profile%20views&color=0e75b6&style=flat" alt="developerzahin" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerzahin" alt="developerzahin" /></a> </p>
+
 <img align="right" alt="Coding a man" width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="">
 
 
@@ -37,9 +37,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerzahin&show_icons=true&locale=en&layout=compact" alt="developerzahin" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerzahin&" alt="developerzahin" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DeveloperZahin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DeveloperZahin" /></a></p><br><br>
