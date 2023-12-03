@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeveloperZahin?tab=repositories](https://github.com/DeveloperZahin?tab=repositories)
 
-- 📝 I regularly write articles on [My personal website.](My personal website.)
+- 📝 I regularly write articles on **My personal portfolio.**
 
 - 💬 Ask me about **Web Design and Web Development**
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/developerzahin/](https://www.linkedin.com/in/developerzahin/)
 
-- ⚡ Fun fact **I think, I am funny**
+- ⚡ **I can easily master what I learn.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
