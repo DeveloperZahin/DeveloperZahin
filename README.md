@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeveloperZahin?tab=repositories](https://github.com/DeveloperZahin?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/DeveloperZahin](https://github.com/DeveloperZahin?tab=repositories)
 
 - 📝 I regularly write articles on **My personal portfolio.**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **abuzahinmohammadnowsin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/developerzahin/](https://www.linkedin.com/in/developerzahin/)
+- 📄 Know about my experiences [linkedin.com/developerzahin/](https://www.linkedin.com/in/developerzahin/)
 
 - ⚡ **I can easily master what I learn.*
 
