@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on **My personal portfolio.**
 
-- 💬 Ask me about **Web Design and Web Development**
+- 💬 Contact me about **Web Design and Web Development**
 
 - 📫 How to reach me **abuzahinmohammadnowsin@gmail.com**
 
