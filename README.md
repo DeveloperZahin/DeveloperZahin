@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzahin&label=Profile%20views&color=0e75b6&style=flat" alt="developerzahin" /> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/developerzahin/" target="blank"><img src="https://img.shields.io/twitter/follow/developerzahin?logo=linkedin&style=for-the-badge" alt="@developerzahin" /></a> </p>
 
 <img align="right" alt="Coding a man" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="">
 
