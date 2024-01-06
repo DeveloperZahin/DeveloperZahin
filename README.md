@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Mentor App](https://github.com/DeveloperZahin/Mentor-app)
 
-- 🌱 I’m currently learning **Laravel and Next.js**
+- 🌱 I’m currently learning **Laravel, Node.js and Software Testing**
 
 - 👨‍💻 All of my projects are available at [github.com/DeveloperZahin](https://github.com/DeveloperZahin?tab=repositories)
 
 - 📝 I regularly write articles on **My personal portfolio.**
 
-- 💬 Contact me about **Web Design and Web Development**
+- 💬 Contact me about **Web Design, Web Development and Software Tasting**
 
 - 📫 How to reach me **abuzahinmohammadnowsin@gmail.com**
 
