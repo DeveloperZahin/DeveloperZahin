@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahin</h1>
-<h3 align="center">A passionate Frontend and backend developer from Bangladesh.</h3>
+<h3 align="center">A passionate software tester and full-stack developer from Bangladesh.</h3>
 <img align="center" alt="Coding a man" src="https://visme.co/blog/wp-content/uploads/2020/02/header.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzahin&label=Profile%20views&color=0e75b6&style=flat" alt="developerzahin" /> </p>
@@ -9,19 +9,19 @@
 <img align="right" alt="Coding a man" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="">
 
 
-- 🔭 I’m currently working on [Mentor App](https://github.com/DeveloperZahin/Mentor-app)
+- 🔭 I’m currently working on [Boston Appraisal Services.](#)
 
-- 🌱 I’m currently learning **Laravel, Node.js and Software Testing**
+- 🌱 I’m currently also learning **Laravel, Node.js and Advanced Software Testing.**
 
-- 👨‍💻 All of my projects are available at [github.com/DeveloperZahin](https://github.com/DeveloperZahin?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github.com/DeveloperZahin.](https://github.com/DeveloperZahin?tab=repositories)
 
-- 📝 I regularly write articles on **My personal portfolio.**
+- 📝 I regularly write articles on [My Portfolio.](#)
 
-- 💬 Contact me about **Web Design, Web Development and Software Tasting**
+- 💬 Contact me about **Web Design, Web Development and Software Tasting.**
 
 - 📫 How to reach me **abuzahinmohammadnowsin@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/developerzahin/](https://www.linkedin.com/in/developerzahin/)
+- 📄 Know about my experiences [Linkedin.com/developerzahin/](https://www.linkedin.com/in/developerzahin/)
 
 - ⚡ **I can easily master what I learn.*
 
@@ -35,6 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://pestphp.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62078253?s=200&v=4" alt="Pestphp" width="40" height="40"/> </a>
