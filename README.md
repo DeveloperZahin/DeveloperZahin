@@ -39,13 +39,14 @@
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://pestphp.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62078253?s=200&v=4" alt="Pestphp" width="40" height="40"/> </a>
+  <a href="https://mailtrap.io/" target="_blank"> <img src="https://mailtrap.io/wp-content/uploads/2018/11/cropped-512px-mailtrap-logo-1.png" alt="mailtrap" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://jquery.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1920px-JQuery_logo.svg.png" alt="jquery" width="60" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" > <img src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="github" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" > <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
