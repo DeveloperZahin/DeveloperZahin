@@ -36,6 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a>
+  <a href="https://www.cpp.net" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://pestphp.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62078253?s=200&v=4" alt="Pestphp" width="40" height="40"/> </a>
