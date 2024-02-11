@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahin</h1>
-<h3 align="center">A passionate software tester and full-stack developer from Bangladesh.</h3>
+<h3 align="center">An enthusiastic software engineer from Bangladesh.</h3>
 <img align="center" alt="Coding a man" src="https://visme.co/blog/wp-content/uploads/2020/02/header.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzahin&label=Profile%20views&color=0e75b6&style=flat" alt="developerzahin" /> </p>
@@ -9,9 +9,9 @@
 <img align="right" alt="Coding a man" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="">
 
 
-- 🔭 I’m currently working on [Boston Appraisal Services.](#)
+- 🔭 I’m currently working on [Boston Appraisal Services.](https://bas.bostonappraisal.com/)
 
-- 🌱 I’m currently also learning **Laravel, Node.js and Advanced Software Testing.**
+- 🌱 I’m currently also learning **C++, Laravel, Node.js and Advanced Software Testing.**
 
 - 👨‍💻 All of my projects are available at [Github.com/DeveloperZahin.](https://github.com/DeveloperZahin?tab=repositories)
 
@@ -38,13 +38,13 @@
   <a href="https://code.visualstudio.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a>
   <a href="https://www.cpp.net" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://pestphp.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62078253?s=200&v=4" alt="Pestphp" width="40" height="40"/> </a>
   <a href="https://mailtrap.io/" target="_blank"> <img src="https://mailtrap.io/wp-content/uploads/2018/11/cropped-512px-mailtrap-logo-1.png" alt="mailtrap" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://jquery.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1920px-JQuery_logo.svg.png" alt="jquery" width="60" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" > <img src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world-thumbnail.png" alt="github" width="40" height="40"/> </a>
