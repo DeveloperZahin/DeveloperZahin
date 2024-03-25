@@ -2,9 +2,9 @@
 <h3 align="center">An enthusiastic software engineer from Bangladesh.</h3>
 <img align="center" alt="Coding a man" src="https://visme.co/blog/wp-content/uploads/2020/02/header.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzahin&label=Profile%20views&color=0e75b6&style=flat" alt="developerzahin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isherezahin&label=Profile%20views&color=0e75b6&style=flat" alt="isherezahin" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/developerzahin/" target="blank"><img src="https://img.shields.io/twitter/follow/developerzahin?logo=linkedin&style=for-the-badge" alt="@developerzahin" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/isherezahin/" target="blank"><img src="https://img.shields.io/twitter/follow/isherezahin?logo=linkedin&style=for-the-badge" alt="@isherezahin" /></a> </p>
 
 <img align="right" alt="Coding a man" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="">
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently also learning **C++, Laravel, Node.js and Advanced Software Testing.**
 
-- 👨‍💻 All of my projects are available at [Github.com/DeveloperZahin.](https://github.com/DeveloperZahin?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github.com/isherezahin.](https://github.com/isherezahin?tab=repositories)
 
 - 📝 I regularly write articles on [My Portfolio.](#)
 
@@ -21,16 +21,16 @@
 
 - 📫 How to reach me **abuzahinmohammadnowsin@gmail.com**
 
-- 📄 Know about my experiences [Linkedin.com/developerzahin/](https://www.linkedin.com/in/developerzahin/)
+- 📄 Know about my experiences [Linkedin.com/isherezahin/](https://www.linkedin.com/in/isherezahin/)
 
 - ⚡ **I can easily master what I learn.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/developerzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerzahin" height="30" width="40" /></a>
-<a href="https://fb.com/developerzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developerzahin" height="30" width="40" /></a>
-<a href="https://instagram.com/developerzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerzahin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developerzahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developerzahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isherezahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isherezahin" height="30" width="40" /></a>
+<a href="https://fb.com/isherezahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isherezahin" height="30" width="40" /></a>
+<a href="https://instagram.com/isherezahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isherezahin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/isherezahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isherezahin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,9 +59,9 @@
   <a href="https://xdebug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Xdebug_Logo.svg/1280px-Xdebug_Logo.svg.png" alt="Xbebug" width="60" height="30"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerzahin&show_icons=true&locale=en&layout=compact" alt="developerzahin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isherezahin&show_icons=true&locale=en&layout=compact" alt="isherezahin" /></p>
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/DeveloperZahin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DeveloperZahin" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/isherezahin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="isherezahin" /></a></p><br><br>
 
