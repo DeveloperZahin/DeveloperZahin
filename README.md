@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Boston Appraisal Services.](https://bas.bostonappraisal.com/)
 
-- 🌱 I’m currently also learning **C++, Laravel, Node.js and Advanced Software Testing.**
+- 🌱 I’m currently also learning **C++, Laravel, Vue.js and Advanced Software Testing.**
 
 - 👨‍💻 All of my projects are available at [Github.com/isherezahin.](https://github.com/isherezahin?tab=repositories)
 
